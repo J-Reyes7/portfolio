@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: table_of_contents
+chapters:
+- file: resume
+  title: 'Resume'
+- file: presentation
+  title: 'Presentation - MLOps SQL Project'
+- file: ml_proj
+  title: 'ml'
